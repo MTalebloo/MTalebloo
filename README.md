@@ -1,5 +1,11 @@
-## Hi there 👋
-
+Hello, <strong>I'm Mahdi Talebloo</strong>. I'm a full stack developer and I work in React and Django.
+<hr>
+Technologies
+<hr>
+Frontend :
+Javascript & Typescript & React 
+Backend :
+Django
 <!--
 **MTalebloo/MTalebloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
