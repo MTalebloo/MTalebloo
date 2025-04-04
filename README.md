@@ -3,7 +3,8 @@ Hello, <strong>I'm Mahdi Talebloo</strong>. I'm a full stack developer and I wor
 Technologies
 <hr>
 Frontend :
-Javascript & Typescript & React 
+Javascript & Typescript & React
+<br>
 Backend :
 Django
 <!--
